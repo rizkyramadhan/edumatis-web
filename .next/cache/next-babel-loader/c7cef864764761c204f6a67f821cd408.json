@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport { View } from \"react-native-web\";\nexport default (function (_ref) {\n  var children = _ref.children;\n  return __jsx(View, {\n    style: {\n      flex: 1,\n      flexDirection: \"column\"\n    }\n  }, children);\n});","map":null,"metadata":{},"sourceType":"module"}
